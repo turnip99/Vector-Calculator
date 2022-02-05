@@ -1,0 +1,32 @@
+﻿<Window x:Class="Vector_Calculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Vector_Calculator"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="810" Width="1000">
+    <Canvas>
+        <Label Name="lbl1" Margin="177, 0" FontSize="300">[ ]</Label>
+        <TextBox Name="txt1x" Margin="255, 154" Width="120" Height="50" FontSize="26" TextAlignment="Center">0</TextBox>
+        <TextBox Name="txt1y" Margin="255, 224" Width="120" Height="50" FontSize="26" TextAlignment="Center">0</TextBox>
+        <TextBox Name="txt1z" Margin="255, 294" Width="120" Height="50" FontSize="26" TextAlignment="Center">0</TextBox>
+        <Label Name="lbl2" Margin="477, 0" FontSize="300">[ ]</Label>
+        <TextBox Name="txt2x" Margin="555, 154" Width="120" Height="50" FontSize="26" TextAlignment="Center">0</TextBox>
+        <TextBox Name="txt2y" Margin="555, 224" Width="120" Height="50" FontSize="26" TextAlignment="Center">0</TextBox>
+        <TextBox Name="txt2z" Margin="555, 294" Width="120" Height="50" FontSize="26" TextAlignment="Center">0</TextBox>
+        <Button Name="Add" Margin="20, 120" Width="170" Height="50" FontSize="26">Add</Button>
+        <Button Name="Subtract" Margin="20, 180" Width="170" Height="50" FontSize="26">Subtract</Button>
+        <Button Name="Scale" Margin="20, 240" Width="170" Height="50" FontSize="26">Scale</Button>
+        <Button Name="Dot_Product" Margin="20, 300" Width="170" Height="50" FontSize="26">Dot Product</Button>
+        <Button Name="Unit_Vector" Margin="20, 360" Width="170" Height="50" FontSize="26">Unit Vector</Button>
+        <Button Name="Magnitude" Margin="750, 120" Width="170" Height="50" FontSize="26">Magnitude</Button>
+        <Button Name="Distance" Margin="750, 180" Width="170" Height="50" FontSize="26">Distance</Button>
+        <Button Name="Angle" Margin="750, 240" Width="170" Height="50" FontSize="26">Angle</Button>
+        <Button Name="Scalar_Proj" Margin="750, 300" Width="170" Height="50" FontSize="20">Scalar Projection</Button>
+        <Button Name="Vector_Proj" Margin="750, 360" Width="170" Height="50" FontSize="20">Vector Projection</Button>
+        <ScrollViewer Name="svMain" Margin="10, 420" Width="970" Height="350" >
+            <TextBlock Name="txtMain" FontSize="20" FontWeight="DemiBold" TextWrapping="Wrap"></TextBlock>
+        </ScrollViewer>
+    </Canvas>
+</Window>

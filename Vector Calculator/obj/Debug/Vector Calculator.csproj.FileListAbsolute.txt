@@ -1,0 +1,46 @@
+G:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\bin\Debug\Vector Calculator.exe.config
+G:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\bin\Debug\Vector Calculator.exe
+G:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\bin\Debug\Vector Calculator.pdb
+G:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\obj\Debug\Vector Calculator.csprojResolveAssemblyReference.cache
+G:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\obj\Debug\MainWindow.g.cs
+G:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\obj\Debug\App.g.cs
+G:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\obj\Debug\Vector Calculator_MarkupCompile.cache
+G:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\obj\Debug\Vector Calculator_MarkupCompile.lref
+G:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\obj\Debug\MainWindow.baml
+G:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\obj\Debug\Vector Calculator.g.resources
+G:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\obj\Debug\Vector_Calculator.Properties.Resources.resources
+G:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\obj\Debug\Vector Calculator.csproj.GenerateResource.Cache
+G:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\obj\Debug\Vector Calculator.exe
+G:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\obj\Debug\Vector Calculator.pdb
+E:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\bin\Debug\Vector Calculator.exe.config
+E:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\obj\Debug\Vector Calculator.exe
+E:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\obj\Debug\Vector Calculator.pdb
+E:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\bin\Debug\Vector Calculator.exe
+E:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\bin\Debug\Vector Calculator.pdb
+E:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\obj\Debug\Vector Calculator.csprojResolveAssemblyReference.cache
+E:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\obj\Debug\MainWindow.g.cs
+E:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\obj\Debug\App.g.cs
+E:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\obj\Debug\Vector Calculator_MarkupCompile.cache
+E:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\obj\Debug\Vector Calculator_MarkupCompile.lref
+E:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\obj\Debug\MainWindow.baml
+E:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\obj\Debug\Vector Calculator.g.resources
+E:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\obj\Debug\Vector_Calculator.Properties.Resources.resources
+E:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\obj\Debug\Vector Calculator.csproj.GenerateResource.Cache
+F:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\bin\Debug\Vector Calculator.exe.config
+F:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\bin\Debug\Vector Calculator.exe
+F:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\bin\Debug\Vector Calculator.pdb
+F:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\obj\Debug\Vector Calculator.csprojResolveAssemblyReference.cache
+F:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\obj\Debug\MainWindow.g.cs
+F:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\obj\Debug\App.g.cs
+F:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\obj\Debug\Vector Calculator_MarkupCompile.cache
+F:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\obj\Debug\Vector Calculator_MarkupCompile.lref
+F:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\obj\Debug\MainWindow.baml
+F:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\obj\Debug\Vector Calculator.g.resources
+F:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\obj\Debug\Vector_Calculator.Properties.Resources.resources
+F:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\obj\Debug\Vector Calculator.csproj.GenerateResource.Cache
+F:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\obj\Debug\Vector Calculator.exe
+F:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\obj\Debug\Vector Calculator.pdb
+F:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\obj\Debug\PopUp.g.cs
+F:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\obj\Debug\PopUp.baml
+E:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\obj\Debug\PopUp.g.cs
+E:\Course Stuff\17COA220 - Mathematics for Computer Science\Vector Calculator\Vector Calculator\obj\Debug\PopUp.baml
